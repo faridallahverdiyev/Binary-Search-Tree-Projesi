@@ -1,2 +1,20 @@
 # Binary-Search-Tree-Projesi
-Veri yapilari ve algoritmalar Binary Search Tree Projesi
+- root 7'dir.
+- 7'nin sağından 5 bulunur.
+- 5'in sağından 1 bulunur.
+- 1'in sağından hiçbir şey bulunmaz.
+- 1'in solundan hiçbir şey bulunmaz.
+- 5'in solundan 3 bulunur.
+- 3'ün sağından hiçbir şey bulunmaz.
+- 3'ün solundan hiçbir şey bulunmaz.
+- 7'nin solundan 8 bulunur.
+- 8'in sağından hiçbir şey bulunmaz.
+- 8'in solundan 6 bulunur.
+- 6'nın sağından hiçbir şey bulunmaz.
+- 6'nın solundan hiçbir şey bulunmaz.
+- 9'un sağından hiçbir şey bulunmaz.
+- 9'un solundan 4 bulunur.
+- 4'ün sağından hiçbir şey bulunmaz.
+- 4'ün solundan hiçbir şey bulunmaz.
+- 2'nin sağından hiçbir şey bulunmaz.
+- 2'nin solundan hiçbir şey bulunmaz.
